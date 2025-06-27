@@ -7,7 +7,7 @@ using namespace std;
 string solution(vector<string> seoul) {
     string answer = "";
 
-    for (int x = 0; x < seoul.size(); x++)
+    for (int x = 0; x < seoul.size(); x++)  // vector °ª Á¢±Ù
     {
         if ("Kim" == seoul[x])
         {

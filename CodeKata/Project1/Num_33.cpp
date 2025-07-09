@@ -26,7 +26,7 @@ int factors(int left, int right) {
 
     return result;
 }
-//
+// gÇÑ±Û±úÁü???
 int solution(int left, int right) {
     int answer = 0;
 

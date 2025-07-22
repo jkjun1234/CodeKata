@@ -13,8 +13,7 @@ using namespace std;
  * - 3 ≤ number의 길이 ≤ 13
  * - -1,000 ≤ number의 원소 ≤ 1,000
  * - 서로 다른 원소가 들어있습니다.
- /
-
+ */
 int solution(vector<int> number) {
     int answer = 0;
     int n = number.size();  // 5
